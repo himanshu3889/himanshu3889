@@ -9,13 +9,13 @@
 - 📫 How to reach me **himanshu3889@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
-<a href="https://linkedin.com/in/himanshu3889" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="himanshu3889" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/himanshurajput8" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="himanshu3889" height="30" width="30" /></a>
 <h3 align="left">Coding Profiles: </h3>
 <p align="left">
 <a href="https://www.leetcode.com/himanshu3889" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=wDGo581Ea5Nf&format=png" alt="himanshu3889" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/himanshurajput" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=YSy0lU4Y0X4z&format=png" alt="himanshurajput" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/himanshu3889" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=4z2zrIWYmGqx&format=png" alt="himanshu3889" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/himanshu3889." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/800px-HackerEarth_logo.png" alt="himanshu3889." height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@himanshu3889." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/HackerEarth_logo.png/800px-HackerEarth_logo.png" alt="himanshu3889." height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/himanshu3889" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=mT2bzIQRdfpR&format=png" alt="himanshu3889" height="30" width="30" /></a>
 </p>
 
